@@ -1,6 +1,6 @@
 ---
 title: 策略後果分析
-summary: 習皇帝的“偉大目標”
+summary: 習皇帝的“偉大目標”~
 tags:
   - ML
 date: 2022-01-01
