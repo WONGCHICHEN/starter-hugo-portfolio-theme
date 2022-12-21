@@ -66,7 +66,7 @@ social:
 #email: ""
 ---
 
-SAX is a student of TCU. Her research interests include psychology, philosophy and polotics. Like an ordinary person, only philosophy is in my head. As a new generation of conservativesm I only seek the truth.
+SAX is a student of TCU. He research interests include psychology, philosophy and polotics. Like an ordinary person, only philosophy is in my head. As a new generation of conservativesm, I only seek the truth.
 
 I usually like to read books, and occasionally play strategy games. I have a lot of crazy idea, but still need to go through brain until I find the real facts.
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
