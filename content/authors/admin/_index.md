@@ -66,7 +66,6 @@ social:
 #email: ""
 ---
 
-SAX is a student of TCU. He research interests include psychology, philosophy and polotics. Like an ordinary person, only philosophy is in my head. As a new generation of conservativesm, I only seek the truth.
+我是薩克斯（SAX），來自馬來西亞，目前就讀慈濟大學人類發展與心理學係，喜歡探討關於哲學、政治、心理學等領域。我是一個正在尋求真理的保守派青年，每天除了哲學還是哲學。
 
-I usually like to read books, and occasionally play strategy games. I have a lot of crazy idea, but still need to go through brain until I find the real facts.
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+我受到柏拉圖、亞里士多德的啓發，目前主要探討關於美國國父們的立國智慧，並堅決反對社會主義、民主社會主義、共產主義等左傾或極左派，但是對於左派哲學家如阿爾貝·加繆、雅克·德希達等情有獨鍾，但任然是以右派古典自由主義爲主。如果你有興趣與我聊天，這將會是我人生中最快樂的事情之一。
