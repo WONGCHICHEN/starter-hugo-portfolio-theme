@@ -1,7 +1,7 @@
 ---
 title: 
 summary: 美國，民主國家？
-tags: 美國歷史時不可忽略的部分......
+tags: 美國歷史中不可忽略的重大事件......
   - PHI
 date: 2022-01-01
 #external_link: http://github.com
