@@ -1,8 +1,8 @@
 ---
 title: 
-summary: 習皇帝的“偉大目標”~
-tags:
-  - NLP
+summary: 美國，民主國家？
+tags: 你讀歷史不會讀到的部分......
+  - Phil.
 date: 2022-01-01
 #external_link: http://github.com
 ---
