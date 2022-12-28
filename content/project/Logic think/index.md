@@ -1,8 +1,8 @@
 ---
 title: 邏輯思考
-summary: 邏輯運用得當可以推導出不可思議的結論......
+summary: 邏輯可以證明慈濟是不是中共自己人哦~
 tags:
-  - NLP
+  - Phil.
 date: 2022-01-01
 #external_link: http://github.com
 ---
@@ -30,6 +30,7 @@ date: 2022-01-01
 
 參考資料
 ¹記者林麗玉，周玉蔻轟慈濟中共自己人 網貼蔡英文證嚴上人合照打臉，聯合報，2022/09/13
+
 ²林宏達，《台商30年產業王》鴻海集團郭台銘　打造世界級的代工帝國，今周刊，2020/02/19
 
 此貼文出處：周玉蔻臉書貼文，https://m.facebook.com/story.php?story_fbid=pfbid0YyZdxugBwjsSZzLGUkT1V8YnRVcZuxChaQAonF532Av9xrGTvM3Tce9F6RM6HRukl&id=1044960725&sfnsn=mo&mibextid=6aamW6

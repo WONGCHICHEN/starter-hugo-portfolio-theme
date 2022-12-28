@@ -2,7 +2,7 @@
 title: 世界經濟通貨膨脹
 summary: 列寧：稅收加上通貨膨脹就是變相加稅，這是自由市場的大殺器......
 tags:
-  - ML
+  - ECO
 date: 2022-01-01
 #external_link: http://github.com
 ---
@@ -35,18 +35,32 @@ date: 2022-01-01
 參考資料
 ----------------------------------------------------------------------------------------------------------------------------------
 ¹《新冠疫情衝擊世界經濟》https://www.bbc.com/zhongwen/trad/business-53249104 BBC記者：勞拉·瓊斯、大衛·布朗、丹尼爾·帕倫博 出版日期：2020/7/1
+
 ²《How Hard Will GDP Be Hit in 2020?》https://www.statista.com/chart/21961/oecd-gdp-growth-projections-2020-on-2019/ 作者：Martin Armstrong 出版日期：2020/9/16
+
 ³OECD Economy《Inflation (CPI)》https://data.oecd.org/price/inflation-cpi.htm
+
 ⁴《44個國家的通貨膨脹率》https://www.gvm.com.tw/article/85933 作者：蔣濬浩  出版日期：2022/1/5
+
 ⁵《Projected GDP Ranking》Statistics Times 出版https://statisticstimes.com/economy/projected-world-gdp-ranking.php
+
 ⁶《俄羅斯與烏克蘭經濟》《各國通貨膨脹率列表》https://zh.m.wikipedia.org/zh-tw
+
 ⁷《又放鷹！FED再升息三碼，但投資人更擔心「這件事」》https://www.gvm.com.tw/article/94425  作者：林讓均 出版日期：2022/9/22
+
 ⁸《疫情越嚴重 Fed就會一直印鈔票？》https://ctee.com.tw/bookstore/selection/380102.html
 出版社：工商時報 出版日期：2020/12/7
+
 ⁹《線上貨幣換算器》https://tw.valutafx.com/USD-TWD.htm 開發商：VALUTA FX
+
 ¹⁰《美國-基準利率》開發商：財經M平方
+
 https://www.macromicro.me/collections/9/us-market-relative/48/target-rate
+
 ¹¹《Report for Selected Countries and Subjects》開發商：IMF https://www.imf.org
+
 ¹²《U.S. Inflation Rate 1960-2022》 開發商：macrotrends  http://www.macrotrends.net/
+
 ¹³《United States Inflation Rate》開發商：TRADING ECONOMICS https://tradingeconomics.com/
+
 ¹⁴《美國通膨堪憂！聯準會宣布升息3碼 今年連續第三次創紀錄》 開發商：Yahoo新聞https://bccnews.com.tw/  出版商：中廣新聞網  出版日期：2022/9/22

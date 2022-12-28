@@ -2,7 +2,7 @@
 title: 策略後果分析
 summary: 習皇帝的“偉大目標”~
 tags:
-  - ML
+  - NLP
 date: 2022-01-01
 #external_link: http://github.com
 ---
