@@ -31,7 +31,7 @@ content:
     - name: Economic
       tag: ECO
     - name: Philosophy
-      tag: PHILO
+      tag: PHI
     - name: Politic
       tag: PC
     - name: NLP
