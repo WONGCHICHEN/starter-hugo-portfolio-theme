@@ -1,7 +1,7 @@
 ---
 title: 
 summary: 美國，民主國家？
-tags: 你讀歷史不會讀到的部分......
+tags: 美國歷史中最不可以忽視的部分......
   - Phil.
 date: 2022-01-01
 #external_link: http://github.com
