@@ -1,7 +1,7 @@
 ---
 title: 
 summary: 美國，民主國家？
-tags: 你讀歷史不會讀到的部分......
+tags: 你研究美國歷史時不可忽略的部分......
   - PHILO
 date: 2022-01-01
 #external_link: http://github.com
