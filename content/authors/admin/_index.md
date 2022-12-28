@@ -45,7 +45,7 @@ social:
   - icon: youtube
     icon_pack: fab
     link: https://www.youtube.com/@hwalianmarchingband947/videos
-  - icon: instagram
+  - icon: twitter
     icon_pack: fab
     link: https://www.instagram.com/xiao_xiao_wong/
   - icon: youtube
