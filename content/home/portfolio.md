@@ -32,6 +32,8 @@ content:
       tag: ECO
     - name: Philosophy
       tag: Phil.
+    - name: Politic
+      tag: PC
     - name: NLP
       tag: NLP
 
