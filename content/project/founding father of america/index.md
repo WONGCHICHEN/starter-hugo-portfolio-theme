@@ -1,11 +1,7 @@
 ---
-title: 
-summary: 美國，民主國家？
-<<<<<<< HEAD
-tags: 美國歷史中最不可以忽視的部分......
-  - Phil.
-=======
-tags: 美國歷史中不可忽略的重大事件......
+title: 美國，民主國家？
+summary: 美國歷史中最不可以忽視的部分......
+tags: 
   - PHI
 date: 2022-01-01
 #external_link: http://github.com
