@@ -2,7 +2,7 @@
 title: 邏輯思考
 summary: 邏輯可以證明慈濟是不是中共自己人哦~
 tags:
-  - Phil.
+  - NLP
 date: 2022-01-01
 #external_link: http://github.com
 ---

@@ -1,8 +1,12 @@
 ---
 title: 
 summary: 美國，民主國家？
+<<<<<<< HEAD
 tags: 美國歷史中最不可以忽視的部分......
   - Phil.
+=======
+tags: 美國歷史中不可忽略的重大事件......
+  - PHI
 date: 2022-01-01
 #external_link: http://github.com
 ---
@@ -23,6 +27,7 @@ date: 2022-01-01
 
 
 參考資料
+
 ¹托馬斯·潘恩著，谷意翻譯，《常識》，五南出版社，2020/06/28
 
 ²https://zh.m.wikipedia.org/zh-tw/%E7%BE%8E%E5%9C%8B%E7%8D%A8%E7%AB%8B%E5%AE%A3%E8%A8%80，美國獨立宣言，維基百科
